@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(210, 173, 230);
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(120, 0, 139);
+}
+
+.profile-photo {
+  border: 2px solid rgb(210,173,230);
+  border-radius: 10px;
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+form {
+  border: 2px solid #702c6d;
+  padding: 20px;
+  display: inline-block;
+  background-color:lightslategray;
+  margin-top: 20px;
+}
+
+input, textarea {
+  width: 80%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.highlight {
+  font-weight: bold;
+  font-style: italic;
+  color: green;
+}
