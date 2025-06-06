@@ -1,62 +1,64 @@
-MyProfileProject
-🎯 Objective
+# MyProfileProject
 
-To design a single responsive personal profile webpage using HTML, CSS, and JavaScript.
 
-The goal was to practice front-end web development by building a portfolio-style page that highlights a short introduction, contact form, and interactive elements.
+🎯 *Objective*
 
-🛠 Tools & Technologies Used
+- To design a single responsive personal profile webpage using HTML, CSS, and JavaScript.
 
-HTML: Structure and content
+- The goal was to practice front-end web development by building a portfolio-style page that highlights a short introduction, contact form, and interactive elements.
 
-CSS: Styling, layout, and design
+🛠 *Tools & Technologies Used*
 
-JavaScript: Dynamic interaction
+- HTML: Structure and content
 
-Browser: Chrome / Firefox for testing
+- CSS: Styling, layout, and design
 
-GitHub: Code hosting and deployment
+- JavaScript: Dynamic interaction
 
-🔄 Steps Included
+- Browser: Chrome / Firefox for testing
 
-Built the base HTML structure using semantic tags.
+- GitHub: Code hosting and deployment
 
-Inserted a profile photo, personal intro, and section headers.
+🔄 *Steps Included*
 
-Designed a responsive contact form with inputs for name, email, and message.
+- Built the base HTML structure using semantic tags.
 
-Applied CSS for layout, background color, font styling, and spacing.
+- Inserted a profile photo, personal intro, and section headers.
 
-Added interactivity using JavaScript:
+- Designed a responsive contact form with inputs for name, email, and message.
 
-Button triggers greeting via prompt() and alert()
+- Applied CSS for layout, background color, font styling, and spacing.
 
-Highlighted key text using custom CSS classes.
+- Added interactivity using JavaScript:
 
-Final version hosted on GitHub with a screenshot and README.
+- Button triggers greeting via prompt() and alert()
 
-📈 Features Implemented
+- Highlighted key text using custom CSS classes.
 
-Clean, user-friendly UI with a light background color.
+- Final version hosted on GitHub with a screenshot and README.
 
-Highlighted important info (e.g., name, hobbies) using styled tags.
+📈 *Features Implemented*
 
-Functional contact form using standard input validation.
+- Clean, user-friendly UI with a light background color.
 
-Interactive greeting using JavaScript prompt and alert.
+- Highlighted important info (e.g., name, hobbies) using styled <span> tags.
 
-Responsive image styling and layout with padding and borders.
+- Functional contact form using standard input validation.
 
-🔍 Key Learnings
+- Interactive greeting using JavaScript prompt and alert.
 
-Strengthened understanding of basic web technologies.
+- Responsive image styling and layout with padding and borders.
 
-Practiced DOM manipulation and JS event handling.
+🔍 *Key Learnings*
 
-Learned to structure and style a professional-looking page.
+- Strengthened understanding of basic web technologies.
 
-Demonstrated ability to build, test, and deploy a front-end project independently.
+- Practiced DOM manipulation and JS event handling.
 
-✅ Conclusion
+- Learned to structure and style a professional-looking page.
 
-This project reflects foundational skills in front-end development using core web technologies. It showcases personal and professional information in a simple yet interactive manner and lays the groundwork for building larger portfolio websites in the future.
+- Demonstrated ability to build, test, and deploy a front-end project independently.
+
+✅ *Conclusion*
+
+- This project reflects foundational skills in front-end development using core web technologies. It showcases personal and professional information in a simple yet interactive manner and lays the groundwork for building larger portfolio websites in the future.
